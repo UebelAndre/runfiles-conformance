@@ -75,8 +75,9 @@ pathspec==1.1.1 \
     #   black (>=1.0.0)
     #   mypy (>=1.0.0)
     # https://files.pythonhosted.org/packages/f1/d9/7fb5aa316bc299258e68c73ba3bddbc499654a07f151cba08f6153988714/pathspec-1.1.1-py3-none-any.whl#sha256=a00ce642f577bf7f473932318056212bc4f8bfdf53128c78bbd5af0b9b20b189
-platformdirs==4.13.0 \
-    --hash=sha256:3dbcf4cd708f21cf876c4eaa90e58412bc4f033d87143f41b1493ff77c25b7e1
+platformdirs==4.14.0 \
+    --hash=sha256:1dadfc59a8a5d7565b3d9270ae8fa71c065595352c4277b41c11ee6c222c4b91 \
+    --hash=sha256:83f009c1e8c5fc36869b5171755b291887bd2cade7965233cdfabd23d754720b
     # via
     #   black (>=2)
     #   pylint (>=2.2)
